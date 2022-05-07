@@ -1,9 +1,9 @@
 # Repositório do desafio de projeto de Git/GitHub
 
-##Anotações importantes
+## Anotações importantes
 
-###Links Úteis
+### Links Úteis
 
-[Síntaxe Básica Markdown (https://www.markdownguide.org/basic-syntax/)
+[Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 
