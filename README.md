@@ -9,11 +9,18 @@ Repositóriu criado para o desafio de projeto
 
 ### Atalhos importantes dentro do console do GitBah
 
+- (git init) - Esse comando inicia um novo repositório vazio na pasta onde o console do GitBah foi aberto. Cria uma pasta .git no repositório
+
+- (git add + nome do arquivo) - Esse comando manda as modificações para staged
+
+- (git commit -m "....") - Esse comando realiza o commit nas alterções que foram feitas através do console do GitBash. Entre aspas é possível colocar um comentário sobre que tipo de alteração existe dentro daquele commit
+
+
 - (git clone + link de repositório) - Esse comando serve para clonar um repositório e realizar modificações no console do Git
 
 - (git status) - Esse comando verifica o status dos diretórios e informa se existem modificações a serem comitadas
 
-- (git commit -m "....") - Esse comando realiza o commit nas alterções que foram feitas através do console do GitBash. Entre aspas é possível colocar um comentário sobre que tipo de alteração existe dentro daquele commit
+
 
 - (git push origin main) - Envia a branch para a nuvem "GitHub"
 
@@ -24,6 +31,8 @@ Repositóriu criado para o desafio de projeto
 - (mkdir) Esse comando cria uma pasta dentro de um diretório
 
 - (git add *) Esse comando realiza commit
+
+ 
 
 ### Possíveis erros no Push
 
