@@ -7,7 +7,7 @@ Repositóriu criado para o desafio de projeto
 
 [Síntaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-### Atalhos importantes dentro do console do GitBah
+### Atalhos importantes dentro do console do GitHub
 
 - (git init) - Esse comando inicia um novo repositório vazio na pasta onde o console do GitBah foi aberto. Cria uma pasta .git no repositório
 
