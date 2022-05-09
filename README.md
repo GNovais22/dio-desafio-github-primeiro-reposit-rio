@@ -22,7 +22,7 @@ Repositóriu criado para o desafio de projeto
 
 - (git remote add origin + link do repositório) - Esse comando cria uma conexão entre o repositório local e o repositório criado no Git. 
 
-- (git push origin main) - Envia a branch para a nuvem "GitHub"
+- (git push -u origin main) - Envia a branch para a nuvem "GitHub"
 
 - (CTRL+L) Esse comando limpa o conteúdo no terminal
 
