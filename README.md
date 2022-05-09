@@ -20,7 +20,7 @@ Repositóriu criado para o desafio de projeto
 
 - (git status) - Esse comando verifica o status dos diretórios e informa se existem modificações a serem comitadas
 
-
+- (git remote add origin + link do repositório) - Esse comando cria uma conexão entre o repositório local e o repositório criado no Git. 
 
 - (git push origin main) - Envia a branch para a nuvem "GitHub"
 
